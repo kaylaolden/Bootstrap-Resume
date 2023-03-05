@@ -1,0 +1,27 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+img {width: 200px;  }
+
+.col-md-10 {color: grey;} 
+#contact {
+	padding-top: 100px;
+	text-decoration: underline;
+	font-family: Oswald;
+}
+.head {
+	background-color: #684b77;
+	color: white;
+}
+
+.container {
+	background-color: #b2b586;
+}
+
+h2, span {
+	font-family: Josefin;
+}
+
+ul {
+	font-family: Oswald;
+}
+
+
